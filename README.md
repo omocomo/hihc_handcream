@@ -1,13 +1,5 @@
 # hihc_handcream
 
-
-![0031](https://user-images.githubusercontent.com/55127132/102239868-a2fbdc00-3f3a-11eb-9a4a-95092ab13359.jpg)
-![0032](https://user-images.githubusercontent.com/55127132/102239872-a42d0900-3f3a-11eb-9bf7-90e330ad1771.jpg)
-![0033](https://user-images.githubusercontent.com/55127132/102239873-a4c59f80-3f3a-11eb-96f0-aeb7a3ece930.jpg)
-![0034](https://user-images.githubusercontent.com/55127132/102239878-a4c59f80-3f3a-11eb-9b41-fb43356eeb21.jpg)
-![0035](https://user-images.githubusercontent.com/55127132/102239882-a55e3600-3f3a-11eb-9966-d722a57d8313.jpg)
-![0036](https://user-images.githubusercontent.com/55127132/102239883-a55e3600-3f3a-11eb-857f-1e1abbfc5fa4.jpg)
-![0037](https://user-images.githubusercontent.com/55127132/102239885-a5f6cc80-3f3a-11eb-8691-5bc297149634.jpg)
 ![0001](https://user-images.githubusercontent.com/55127132/102239886-a5f6cc80-3f3a-11eb-8601-41e85f7b4137.jpg)
 ![0002](https://user-images.githubusercontent.com/55127132/102239887-a68f6300-3f3a-11eb-8cc4-bf1b07517717.jpg)
 ![0003](https://user-images.githubusercontent.com/55127132/102239889-a727f980-3f3a-11eb-94cf-084f5bdafc8d.jpg)
